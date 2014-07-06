@@ -1,4 +1,4 @@
-package nl.sogyo.huizenjacht;
+package nl.pmdeandraderodrigues.huizenjacht;
 
 public class Huizenjacht {
 	private static final int MAX_AANTAL_GEWENSTE_OPLOSSINGEN = 20;
